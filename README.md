@@ -1,2 +1,2 @@
-#ABOUTME
-creatte an about me page
+ # ABOUTME
+create an about me page
